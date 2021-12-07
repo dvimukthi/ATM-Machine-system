@@ -1,2 +1,2 @@
-# Bankinng-ATM-Machine
+# Banking-ATM-Machine
 # C Program
